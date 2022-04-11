@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/maheshsomineni.lwc-l1uyd51q",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve nH3mi4OAMWqcYz1ukx2x --open"
+  }
+}
